@@ -1,6 +1,6 @@
 # 32bit-ALU in Verilog
 Project Description
-This Project implements a 32-bit Arithmetic logic unit in Verilog HDL.
+- This Project implements a 32-bit Arithmetic logic unit in Verilog HDL.
 
 ---------------------------------------------------------------------------------------------------
 # Features in Design
