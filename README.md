@@ -34,4 +34,10 @@ A testbench apllies inputs provided and generates a .vcd file for waveform analy
 # Sample Wave forms
 ![image](https://github.com/user-attachments/assets/349638cf-8399-48cf-aa65-3914f9c5eaa0)
 
+---------------------------------------------------------------------------------------------------
+# Learning Outcome
+- understanding of comobinational logic and arithmetic circuits
+- Experience in verilog-based digital design
+- verified using custom testbench
+- simulaation and debugging oh hardware modules
 
