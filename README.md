@@ -26,9 +26,9 @@ A testbench apllies inputs provided and generates a .vcd file for waveform analy
 - EDA Playground
   - online
 - icarus verilog + GTKwave
-  -iverilog -o sim.vvp ALU_32bit.v ALU_32bit_tb.v - for compile
-  -vvp sim.vvp - for simulate
-  -gtkwave dump.vcd - for view waveforms
+  - iverilog -o sim.vvp ALU_32bit.v ALU_32bit_tb.v - for compile
+  - vvp sim.vvp - for simulate
+  - gtkwave dump.vcd - for view waveforms
 
 ---------------------------------------------------------------------------------------------------
 # Sample Wave forms
